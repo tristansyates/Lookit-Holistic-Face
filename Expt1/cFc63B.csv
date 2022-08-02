@@ -1,0 +1,14 @@
+,trials,choices,durations,left_images,right_images,conditions,accuracies
+0,12-test-trial-1,different,8.172,bretislav_bystrik.png,bretislav_bretislav.png,misaligned_same,False
+1,13-test-trial-2,different,10.432,prokop_prokop.png,prokop_elias.png,aligned_same,False
+2,14-test-trial-3,different,8.888,andrej_drahomir.png,drahomir_andrej.png,misaligned_different,True
+3,15-test-trial-4,different,11.458,bystrik_bystrik.png,bystrik_bretislav.png,aligned_same,False
+4,16-test-trial-5,same,5.835,vasil_vasil.png,vasil_justin.png,misaligned_same,True
+5,17-test-trial-6,different,7.776,josef_maxim.png,maxim_josef.png,misaligned_different,True
+6,18-test-trial-7,same,8.092,hynek_hynek.png,hynek_dominik.png,aligned_same,True
+7,19-test-trial-8,same,8.244,justin_vasil.png,justin_justin.png,aligned_same,True
+8,20-test-trial-9,different,7.542,vladena_margita.png,margita_vladena.png,aligned_different,True
+9,21-test-trial-10,different,13.335,linda_jindriska.png,linda_linda.png,misaligned_same,False
+10,22-test-trial-11,same,6.592,lea_lea.png,lea_stela.png,misaligned_same,True
+11,23-test-trial-12,same,7.411,edita_debra.png,edita_edita.png,aligned_same,True
+12,24-test-trial-13,different,12.963,ramiro_svatopluk.png,svatopluk_ramiro.png,misaligned_different,True
